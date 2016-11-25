@@ -1,0 +1,23 @@
+{
+  "name": "git-learn-7",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smchandio/git-learn-7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smchandio/git-learn-7/issues"
+  },
+  "homepage": "https://github.com/smchandio/git-learn-7#readme",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "normalize.css": "^5.0.0"
+  }
+}
